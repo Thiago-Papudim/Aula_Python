@@ -2,14 +2,14 @@
 
 ## Projeto 
 ***
-Web Scraping Books_toscrap
+Web Scraping Books_toscrape
 
 ## Resumo
 ***
 Projeto de Web Scraping utilizando linguagem Python e gravação do conteúdo em um arquivo xlsx através de sua biblioteca Pandas.
 
 ## Python Versão
-- Python 3.8.9
+- Python 2.9.0
 
 ## Requerimentos
 ***
